@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @Lytwest
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![Logo](https://lytwest.carrd.co/assets/images/image02.jpg?v=53200579) 
+<h1 align="center">Hi 👋, My name is Lytwest!</h1>
+<h3 align="center">I'm a self graphic designer & JS Developer.</h3>
 
-<!---
-Lytwest/Lytwest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lyertia&label=Profile%20views&color=0e75b6&style=flat" alt="lyertia" /> </p>
+
+
+- 🔭 I’m currently working on [Poliéncé](https://top.gg/bot/834768434574786561)
+
+
+- 📫 If you contact Poliéncé **https://discord.gg/zgDVN4wyxM** 
+
+<div align="center">
+    <a href="https://discord.gg/akame" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/847828666671038464"></a>
+</div>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lytwest&show_icons=true&theme=dracula&locale=en" alt="lytwest" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lytwesta&theme=dracula" alt="lytwest" /></p>

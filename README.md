@@ -1,8 +1,8 @@
-![Logo](![image](![image](https://cdn.discordapp.com/attachments/864201025047887932/896160002119696444/unknown.png)) 
+![Logo](![image](![image](https://cdn.discordapp.com/attachments/864201025047887932/896160002119696444/unknown.png) 
 <h1 align="center">Hi 👋, My name is Lytwest!</h1>
 <h3 align="center">I'm a self graphic designer & JS Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lyertia&label=Profile%20views&color=0e75b6&style=flat" alt="lyertia" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lytwest&label=Profile%20views&color=0e75b6&style=flat" alt="lytwest" /> </p>
 
 
 - 🔭 I’m currently working on [Poliéncé](https://top.gg/bot/834768434574786561)

@@ -1,4 +1,4 @@
-![Logo](![image](![image](https://user-images.githubusercontent.com/76743461/136630655-5fde2b98-be28-432f-8652-26811ff23bb9.png))) 
+![Logo](![image](![image](https://user-images.githubusercontent.com/76743461/136630655-5fde2b98-be28-432f-8652-26811ff23bb9.png)) 
 <h1 align="center">Hi 👋, My name is Lytwest!</h1>
 <h3 align="center">I'm a self graphic designer & JS Developer.</h3>
 

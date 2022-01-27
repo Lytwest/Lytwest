@@ -1,4 +1,4 @@
-(![image](https://cdn.discordapp.com/attachments/864201025047887932/896160002119696444/unknown.png) 
+![image](https://cdn.discordapp.com/attachments/864201025047887932/896160002119696444/unknown.png) 
 <h1 align="center">Hi 👋, My name is Lytwest!</h1>
 <h3 align="center">I'm a self graphic designer & JS Developer.</h3>
 

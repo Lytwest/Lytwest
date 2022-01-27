@@ -8,10 +8,10 @@
 - 🔭 I’m currently working on [Poliéncé](https://top.gg/bot/834768434574786561)
 
 
-- 📫 If you contact Poliéncé **https://discord.gg/zgDVN4wyxM** 
+- 📫 If you contact Poliéncé **https://discord.gg/Ur3a9Wt999** 
 
 <div align="center">
-    <a href="https://discord.gg/DpY2j9eMy4" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/847828666671038464"></a>
+    <a href="https://discord.gg/Ur3a9Wt999" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/847828666671038464"></a>
 </div>
 
 

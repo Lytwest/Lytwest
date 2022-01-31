@@ -16,5 +16,5 @@
 
 <p><img align="center"> src="https://github-readme-stats.vercel.app/api?username=lytwest&show_icons=true&theme=react&locale=tr" alt="lytwest" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Lytwest&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=tr" alt="lytwest" /></p>
+<p><img align="center"> src="https://github-readme-streak-stats.herokuapp.com?user=Lytwest&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=tr" alt="lytwest" /></p>
 

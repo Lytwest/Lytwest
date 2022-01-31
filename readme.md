@@ -11,9 +11,9 @@
 - ⛵ Aww! For Communication? **https://discord.gg/Ur3a9Wt999** 
 
 <div align="center">
-    <a href="https://discord.gg/Ur3a9Wt999" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/84782866667103846?theme=aqua&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px4"></a>
+    <a href="https://discord.gg/Ur3a9Wt999" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/84782866667103846?theme=black&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px4"></a>
 </div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lytwest&show_icons=true&theme=react&locale=tr" alt="lytwest" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lytwesta&theme=react&locale=tr" alt="lytwest" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lytwest&show_icons=true&theme=react&locale=tr" alt="lytwest" /></p>

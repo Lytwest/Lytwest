@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, My name is Lytwest!</h1>
 <h3 align="center">I'm a self graphic designer & JS Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lytwest&label=Profile%20views&color=0e75b6&style=flat" alt="lytwest" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lytwest&label=Profile%20views&color=deff00&style=flat" alt="lytwest" /> </p>
 
 
 - 🔭 I’m currently working on [Poliéncé](https://top.gg/bot/834768434574786561)
@@ -15,6 +15,6 @@
 </div>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lytwest&show_icons=true&theme=dracula&locale=en" alt="lytwest" /></p>
+<p>&nbsp;<img align="center"> src="https://github-readme-stats.vercel.app/api?username=lytwest&show_icons=true&theme=apprentice&locale=en" alt="lytwest" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lytwesta&theme=dracula" alt="lytwest" /></p>
+<p><img align="center"> src="https://github-readme-streak-stats.herokuapp.com/?user=lytwesta&theme=apprentice" alt="lytwest" /></p>

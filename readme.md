@@ -1,6 +1,6 @@
 ![image](https://media.discordapp.net/attachments/864201025047887932/876570518822744084/westvalorantbannergri.png) 
-<h1 align="center">Hi 👋, My name is Lytwest!</h1>
-<h3 align="center">I'm a self graphic designer & JS Developer.</h3>
+<h1 align="center">🦊 Well, Welcome to My Profile! :3</h1>
+<h3 align="center">I usually do design or something like that.</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lytwest&label=Profile%20views&color=ffa600&style=flat" alt="lytwest" /> </p>
 
@@ -11,9 +11,10 @@
 - ⛵ Aww! For Communication? **https://discord.gg/Ur3a9Wt999** 
 
 <div align="center">
-    <a href="https://discord.gg/Ur3a9Wt999" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/84782866667103846"></a>
+    <a href="https://discord.gg/Ur3a9Wt999" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/84782866667103846/?"></a>
 </div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lytwest&show_icons=true&theme=react&locale=tr" alt="lytwest" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lytwest&show_icons=true&theme=react&locale=tr" alt="lytwest" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Lytwest&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=tr" alt="lytwest" /></p>
+

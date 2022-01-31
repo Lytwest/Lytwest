@@ -15,6 +15,6 @@
 </div>
 
 
-<p>&nbsp;<img align="center"> src="https://github-readme-stats.vercel.app/api?username=lytwest&show_icons=true&theme=apprentice&locale=en" alt="lytwest" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lytwest&show_icons=true&theme=apprentice&locale=en" alt="lytwest" /></p>
 
-<p><img align="center"> src="https://github-readme-streak-stats.herokuapp.com/?user=lytwesta&theme=apprentice" alt="lytwest" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lytwesta&theme=apprentice" alt="lytwest" /></p>

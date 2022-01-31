@@ -5,13 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lytwest&label=Profile%20views&color=ffa600&style=flat" alt="lytwest" /> </p>
 
 
-- 🌻 Uwu A Great Project I'm Working On! [Poliéncé](https://top.gg/bot/834768434574786561)
+- 🌻 Uwu A Great Project I'm Working On! [Poliéncé](https://bit.ly/poliencebot)
 
 
-- ⛵ Aww! For Communication? **https://discord.gg/Ur3a9Wt999** 
+- ⛵ Aww! For Communication? **lytwest@syntaxbilisim.xyz** 
 
 <div align="center">
-    <a href="https://discord.gg/Ur3a9Wt999" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/847828666671038464/?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px"></a>
+    <a href="https://discord.gg/Ur3a9Wt999" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/847828666671038464/?"></a>
 </div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lytwest&show_icons=true&theme=react&locale=tr" alt="lytwest" /></p>

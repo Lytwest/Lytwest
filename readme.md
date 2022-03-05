@@ -11,7 +11,7 @@
 - ⛵ Aww! For Communication? **lytwest@syntaxbilisim.xyz** 
 
 <div align="center">
-    <a href="https://discord.gg/Ur3a9Wt999" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/847828666671038464/?"></a>
+    <a href="https://discord.gg/Ur3a9Wt999" title="Discord Profile"><img src="https://lanyard.cnrad.dev/api/569252632108072984"></a>
 </div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lytwest&show_icons=true&theme=react&locale=en" alt="lytwest" /></p>

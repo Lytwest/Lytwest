@@ -1,4 +1,4 @@
-![image](https://media.discordapp.net/attachments/864201025047887932/992776463344484372/Akame.png) 
+![image](https://media.discordapp.net/attachments/864201025047887932/992783755888578640/Poliencev2.png?width=750&height=186) 
 <h1 align="center">🦊 Well, Welcome to My Profile! :3</h1>
 <h3 align="center">I usually do design or something like that.</h3> 
 

@@ -1,4 +1,4 @@
-![image](https://cdn.discordapp.com/attachments/864201025047887932/992782454807068772/Future.png) 
+![image](https://media.discordapp.net/attachments/864201025047887932/992776463344484372/Akame.png) 
 <h1 align="center">🦊 Well, Welcome to My Profile! :3</h1>
 <h3 align="center">I usually do design or something like that.</h3> 
 

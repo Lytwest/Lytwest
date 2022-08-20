@@ -9,7 +9,7 @@
 </a>
 <a href="https://discord.com/users/569252632108072984"><img alt="Discord" src="https://img.shields.io/badge/%60lytwest%230017-7289DA?style=flat&logo=discord&logoColor=white"/>
 </a>
-<a  href="mailto:lytwest@ankhametwork.com"> 
+<a  href="mailto:lytwest@ankhanetwork.com"> 
 <img src="https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white"/>
 </a>
 <a href="https://lytwest.is-a.dev">
@@ -21,7 +21,7 @@
 <h4> I am a 16-year-old developer who is interested in design, has small-scale projects, and deals with software, albeit small.</b></h4>
 <h3>
 👨‍💻 Portfolio: https://lytwest.is-a.dev <br/>
-📫 How to reach me: lytwest@ankhametwork.com <br/>
+📫 How to reach me: lytwest@ankhanetwork.com <br/>
 🍥 Minecraft IGN: Lytwest  <br/>
 🦆 Discord Account: `lytwest#0017 <br/>
 </h3>

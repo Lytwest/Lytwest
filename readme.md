@@ -31,3 +31,6 @@
 <br/>
 <div width="50%"><img width="80%" src="https://github-readme-stats.vercel.app/api?username=lytwest&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
 <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=lytwest&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
+<div align="center">
+    <a href="https://discord.gg/Ur3a9Wt999" title="Discord Profile"><img src="https://lanyard.cnrad.dev/api/569252632108072984"></a>
+</div>

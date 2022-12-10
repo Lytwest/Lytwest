@@ -26,7 +26,7 @@
 🦆 Discord Account: `lytwest#0017 <br/>
 </h3>
 <div align="center">
-    <a href="https://discord.gg/Ur3a9Wt999" title="Discord Profile"><img src="https://lanyard.cnrad.dev/api/569252632108072984"></a>
+    <a href="https://lytwest.live" title="Discord Profile"><img src="https://lanyard.cnrad.dev/api/569252632108072984"></a>
 </div>
 <br/>
 <img src="https://skillicons.dev/icons?i=javascript,react,html,css,figma,nodejs,vscode,discord&theme=dark" />

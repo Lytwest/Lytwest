@@ -29,7 +29,6 @@
     <a href="https://lytwest.live" title="Discord Profile"><img src="https://lanyard.cnrad.dev/api/569252632108072984"></a>
 </div>
 <br/>
-<img src="https://skillicons.dev/icons?i=javascript,react,html,css,figma,nodejs,vscode,discord&theme=dark" />
 <br/>
 <br/>
 <div width="50%"><img width="80%" src="https://github-readme-stats.vercel.app/api?username=lytwest&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">

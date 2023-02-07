@@ -12,17 +12,16 @@
 <a  href="mailto:lytwest@ankhanetwork.com"> 
 <img src="https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white"/>
 </a>
-<a href="https://lytwest.is-a.dev">
+<a href="https://lytwest.live">
 <img src="https://img.shields.io/badge/Personal-D14836?&logoColor=white&color=yellow"/>
 </a>
- <a href="https://lytwest.is-a.dev">
+<a href="https://lytwest.live">
 <img src="https://komarev.com/ghpvc/?username=lytwest"/>
 </a>
 <h4> I am a 16-year-old developer who is interested in design, has small-scale projects, and deals with software, albeit small.</b></h4>
 <h3>
 👨‍💻 Portfolio: https://lytwest.live<br/>
 📫 How to reach me: lytwest@ankhanetwork.com <br/>
-🍥 Minecraft IGN: Lytwest  <br/>
 🦆 Discord Account: `lytwest#0017 <br/>
 </h3>
 <div align="center">

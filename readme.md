@@ -4,16 +4,10 @@
 
 <img alt="os" src="https://img.shields.io/badge/windows-11-9cf" />
 
-<a href="https://discord.com/users/569252632108072984">
-<img alt="askme" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" />
-</a>
 <a href="https://discord.com/users/569252632108072984"><img alt="Discord" src="https://img.shields.io/badge/%60lytwest%230017-7289DA?style=flat&logo=discord&logoColor=white"/>
 </a>
 <a  href="mailto:lytwest@ankhanetwork.com"> 
 <img src="https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white"/>
-</a>
-<a href="https://lytwest.live">
-<img src="https://img.shields.io/badge/Personal-D14836?&logoColor=white&color=yellow"/>
 </a>
 <a href="https://lytwest.live">
 <img src="https://komarev.com/ghpvc/?username=lytwest"/>
@@ -21,7 +15,7 @@
 <h4> I am a 16-year-old developer who is interested in design, has small-scale projects, and deals with software, albeit small.</b></h4>
 <h3>
 👨‍💻 Portfolio: https://lytwest.live<br/>
-📫 How to reach me: lytwest@ankhanetwork.com <br/>
+📫 How to reach me: contact@lytwest.live <br/>
 🦆 Discord Account: `lytwest#0017 <br/>
 </h3>
 <div align="center">

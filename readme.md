@@ -3,7 +3,6 @@
   <h1>⛵ Lytwest</h1>
 
 <img alt="os" src="https://img.shields.io/badge/windows-11-9cf" />
-
 <a href="https://discord.com/users/569252632108072984"><img alt="Discord" src="https://img.shields.io/badge/%60lytwest%230017-7289DA?style=flat&logo=discord&logoColor=white"/>
 </a>
 <a  href="mailto:lytwest@ankhanetwork.com"> 

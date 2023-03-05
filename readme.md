@@ -11,7 +11,7 @@
 <a href="https://lytwest.live">
 <img src="https://komarev.com/ghpvc/?username=lytwest"/>
 </a>
-<h4> I am a 16-year-old developer who is interested in design, has small-scale projects, and deals with software, albeit small.</b></h4>
+<h4> I am a 17-year-old developer who is interested in design, has small-scale projects, and deals with software, albeit small.</b></h4>
 <h3>
 👨‍💻 Portfolio: https://lytwest.live<br/>
 📫 How to reach me: contact@lytwest.live <br/>

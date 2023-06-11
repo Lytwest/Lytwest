@@ -1,6 +1,6 @@
 ![image](https://media.discordapp.net/attachments/864201025047887932/992783755888578640/Poliencev2.png) 
 <div align="center">
-  <h1>⛵ Lytwest</h1>
+  <h1>🐤 Lytwest</h1>
 
 <img alt="os" src="https://img.shields.io/badge/windows-11-9cf" />
 <a href="https://discord.com/users/569252632108072984"><img alt="Discord" src="https://img.shields.io/badge/%60lytwest%230017-7289DA?style=flat&logo=discord&logoColor=white"/>
@@ -15,7 +15,7 @@
 <h3>
 👨‍💻 Portfolio: https://lytwest.live<br/>
 📫 How to reach me: contact@lytwest.live <br/>
-🦆 Discord Account: `lytwest#0017 <br/>
+🦆 Discord Account: `lytwest#0017 / @lytwest <br/>
 </h3>
 <div align="center">
     <a href="https://lytwest.live" title="Discord Profile"><img src="https://lanyard.cnrad.dev/api/569252632108072984"></a>

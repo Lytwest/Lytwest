@@ -1,4 +1,4 @@
-![image](https://media.discordapp.net/attachments/864201025047887932/992783755888578640/Poliencev2.png) 
+![image](https://cdn.discordapp.com/attachments/864201025047887932/1120734321192480858/Lytwest_Banner.png) 
 <div align="center">
   <h1>🐤 Lytwest</h1>
 

@@ -1,6 +1,6 @@
 ![image](https://cdn.discordapp.com/attachments/864201025047887932/1120734321192480858/Lytwest_Banner.png) 
 <div align="center">
-  <h1>🐤 Lytwest</h1>
+  <h1>👾 Lytwest</h1>
 
 <img alt="os" src="https://img.shields.io/badge/windows-11-9cf" />
 <a href="https://discord.com/users/569252632108072984"><img alt="Discord" src="https://img.shields.io/badge/%60lytwest%230017-7289DA?style=flat&logo=discord&logoColor=white"/>
@@ -11,7 +11,7 @@
 <a href="https://lytwest.live">
 <img src="https://komarev.com/ghpvc/?username=lytwest"/>
 </a>
-<h4> I am a 17-year-old developer who is interested in design, has small-scale projects, and deals with software, albeit small.</b></h4>
+<h4> Hi, I'm Lytwest! I'm a professional graphic designer as well as a developer. I'm a high school student and I can speak more than 3 languages. I continue to improve myself in my field.</b></h4>
 <h3>
 👨‍💻 Portfolio: https://lytwest.live<br/>
 📫 How to reach me: contact@lytwest.live <br/>

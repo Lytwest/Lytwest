@@ -1,4 +1,4 @@
-![image](https://media.discordapp.net/attachments/864201025047887932/1263895632071098408/Lytwest_Banner.png) 
+![image](https://media.discordapp.net/attachments/864201025047887932/1263895872023035985/Baslksz-13.png?ex=669be641&is=669a94c1&hm=80c985e5c814f27febedc406b7256fb44b2f6e64b5e1b22237dec2bf77e1bfeb&=&format=webp&quality=lossless&width=412&height=145) 
 <div align="center">
   <h1>👾 Lytwest</h1>
 

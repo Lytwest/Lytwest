@@ -1,4 +1,4 @@
-![image]([https://cdn.discordapp.com/attachments/864201025047887932/1120734321192480858/Lytwest_Banner.png](https://cdn.discordapp.com/attachments/864201025047887932/1120734321192480858/Lytwest_Banner.png?ex=669bd52c&is=669a83ac&hm=6d1286e76b19eb54ca469875917cd3938ef5291c403dde5ddfdc37801be59ca2&)) 
+![image](https://media.discordapp.net/attachments/864201025047887932/1263895632071098408/Lytwest_Banner.png) 
 <div align="center">
   <h1>👾 Lytwest</h1>
 

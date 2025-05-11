@@ -11,7 +11,7 @@
 <a href="https://lytwest.live">
 <img src="https://komarev.com/ghpvc/?username=lytwest"/>
 </a>
-<h4> Hi, I'm Lytwest! I'm a professional graphic designer as well as a developer. I'm a high school student and I can speak more than 3 languages. I continue to improve myself in my field.</b></h4>
+<h4> Hi, I'm Lytwest! I'm a professional graphic designer as well as a developer. I'm a nursing student in Dogus University and I can speak more than 3 languages. I continue to improve myself in my field.</b></h4>
 <h3>
 👨‍💻 Portfolio: https://lytwest.live<br/>
 📫 How to reach me: contact@lytwest.live <br/>
